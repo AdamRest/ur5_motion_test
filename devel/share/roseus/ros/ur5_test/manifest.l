@@ -1,0 +1,1 @@
+/home/amr/ur_ws/devel/.private/ur5_test/share/roseus/ros/ur5_test/manifest.l

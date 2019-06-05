@@ -1,0 +1,6 @@
+devel_space: /home/amr/ur_ws/devel
+install: false
+install_space: /home/amr/ur_ws/install
+profile: default
+source_space: /home/amr/ur_ws/src
+workspace: /home/amr/ur_ws

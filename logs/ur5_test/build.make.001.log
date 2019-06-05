@@ -1,0 +1,18 @@
+[ 22%] Built target target_pose_publisher
+[ 22%] Built target geometry_msgs_generate_messages_py
+[ 22%] Built target std_msgs_generate_messages_py
+[ 22%] Built target geometry_msgs_generate_messages_nodejs
+[ 22%] Built target _ur5_test_generate_messages_check_deps_target_pose
+[ 22%] Built target std_msgs_generate_messages_nodejs
+[ 22%] Built target std_msgs_generate_messages_eus
+[ 22%] Built target geometry_msgs_generate_messages_eus
+[ 22%] Built target std_msgs_generate_messages_lisp
+[ 22%] Built target geometry_msgs_generate_messages_lisp
+[ 22%] Built target std_msgs_generate_messages_cpp
+[ 22%] Built target geometry_msgs_generate_messages_cpp
+[ 44%] Built target ur5_test_generate_messages_py
+[ 55%] Built target ur5_test_generate_messages_nodejs
+[ 77%] Built target ur5_test_generate_messages_eus
+[ 88%] Built target ur5_test_generate_messages_lisp
+[100%] Built target ur5_test_generate_messages_cpp
+[100%] Built target ur5_test_generate_messages

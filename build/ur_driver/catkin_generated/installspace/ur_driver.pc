@@ -1,0 +1,8 @@
+prefix=/home/amr/ur_ws/install
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.5
+Cflags: -I/home/amr/ur_ws/install/include
+Libs: -L/home/amr/ur_ws/install/lib 
+Requires: dynamic_reconfigure

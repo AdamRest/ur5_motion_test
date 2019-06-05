@@ -1,0 +1,8 @@
+prefix=/home/amr/ur_ws/install
+
+Name: ur5_test
+Description: Description of ur5_test
+Version: 0.0.0
+Cflags: -I/home/amr/ur_ws/install/include
+Libs: -L/home/amr/ur_ws/install/lib 
+Requires: message_runtime
